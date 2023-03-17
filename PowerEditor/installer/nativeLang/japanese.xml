@@ -474,7 +474,7 @@
                 <Item id="1664" name="プロジェクトパネル 3"/>
                 <Item id="1641" name="現在の文書内で検索"/>
                 <Item id="1686" name="透明化(&amp;Y)"/>
-                <Item id="1703" name="&amp;.は改行と一致"/>
+                <Item id="1703" name="&amp;.は改行とも一致"/>
                 <Item id="1721" name="▲"/>
                 <Item id="1723" name="▼ 次を検索"/>
                 <Item id="1725" name="マークした文字列をコピー"/>
@@ -1306,7 +1306,7 @@
                 <Item id="1717" name="標準(&amp;N)"/>
                 <Item id="1719" name="正規表現(&amp;G)"/>
                 <Item id="1718" name="拡張(\n, \r, \t, \0, \x...) (&amp;X)"/>
-                <Item id="1720" name="&amp;.は改行と一致"/>
+                <Item id="1720" name="&amp;.は改行とも一致"/>
             </FindInFinder>
             <DoSaveOrNot title="保存">
                 <Item id="1761" name="&quot;$STR_REPLACE$&quot; を保存しますか？"/>
